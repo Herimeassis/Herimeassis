@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁 - iniciando no mundo da programação.
+## Bem-vindo(a) ao meu perfil 😁 
 
  <div>
   <a href="https://github.com/devemdobro">
